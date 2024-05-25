@@ -1,4 +1,4 @@
-## Updated on 2024.05.22
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models**|Jingyi Chen et.al.|[2405.14632](http://arxiv.org/abs/2405.14632)|null|
+|**2024-05-22**|**A Near-Real-Time Processing Ego Speech Filtering Pipeline Designed for Speech Interruption During Human-Robot Interaction**|Yue Li et.al.|[2405.13477](http://arxiv.org/abs/2405.13477)|null|
 |**2024-05-20**|**Multi-speaker Text-to-speech Training with Speaker Anonymized Data**|Wen-Chin Huang et.al.|[2405.11767](http://arxiv.org/abs/2405.11767)|null|
 |**2024-05-19**|**VR-GPT: Visual Language Model for Intelligent Virtual Reality Applications**|Mikhail Konenkov et.al.|[2405.11537](http://arxiv.org/abs/2405.11537)|null|
 |**2024-05-18**|**Exploring speech style spaces with language models: Emotional TTS without emotion labels**|Shreeram Suresh Chandra et.al.|[2405.11413](http://arxiv.org/abs/2405.11413)|null|
@@ -551,5 +553,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
