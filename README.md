@@ -1,4 +1,4 @@
-## Updated on 2024.07.13
+## Updated on 2024.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|null|
+|**2024-07-10**|**Source Tracing of Audio Deepfake Systems**|Nicholas Klein et.al.|[2407.08016](http://arxiv.org/abs/2407.08016)|null|
 |**2024-07-07**|**ASRRL-TTS: Agile Speaker Representation Reinforcement Learning for Text-to-Speech Speaker Adaptation**|Ruibo Fu et.al.|[2407.05421](http://arxiv.org/abs/2407.05421)|null|
 |**2024-07-09**|**CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens**|Zhihao Du et.al.|[2407.05407](http://arxiv.org/abs/2407.05407)|null|
 |**2024-07-04**|**Improving Accented Speech Recognition using Data Augmentation based on Unsupervised Text-to-Speech Synthesis**|Cong-Thanh Do et.al.|[2407.04047](http://arxiv.org/abs/2407.04047)|null|
@@ -631,5 +633,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
