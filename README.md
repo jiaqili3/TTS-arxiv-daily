@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
+|**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
+|**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
+|**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|null|
 |**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|null|
 |**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950](http://arxiv.org/abs/2502.02950)|null|
 |**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|null|
