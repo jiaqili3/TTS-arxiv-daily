@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,7 @@ layout: default
 |**2025-02-11**|**LoRP-TTS: Low-Rank Personalized Text-To-Speech**|Łukasz Bondaruk et.al.|[2502.07562](http://arxiv.org/abs/2502.07562)|null|
 |**2025-02-11**|**Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction**|Leying Zhang et.al.|[2502.07345](http://arxiv.org/abs/2502.07345)|null|
 |**2025-02-11**|**Vevo: Controllable Zero-Shot Voice Imitation with Self-Supervised Disentanglement**|Xueyao Zhang et.al.|[2502.07243](http://arxiv.org/abs/2502.07243)|null|
-|**2025-02-10**|**Synthetic Audio Helps for Cognitive State Tasks**|Adil Soubki et.al.|[2502.06922](http://arxiv.org/abs/2502.06922)|null|
+|**2025-02-10**|**Synthetic Audio Helps for Cognitive State Tasks**|Adil Soubki et.al.|[2502.06922](http://arxiv.org/abs/2502.06922)|**[link](https://github.com/adil-soubki/sad-training)**|
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
