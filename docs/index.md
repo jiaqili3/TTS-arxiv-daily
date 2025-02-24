@@ -23,7 +23,7 @@ layout: default
 |**2025-02-19**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
-|**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|null|
+|**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|**[link](https://github.com/index-tts/index-tts)**|
 |**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950](http://arxiv.org/abs/2502.02950)|null|
 |**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|**[link](https://github.com/ShenranTomWang/TTS)**|
@@ -328,7 +328,7 @@ layout: default
 |**2024-05-15**|**Hierarchical Emotion Prediction and Control in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2405.09171](http://arxiv.org/abs/2405.09171)|null|
 |**2024-05-14**|**PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**|Yang Hou et.al.|[2405.08838](http://arxiv.org/abs/2405.08838)|**[link](https://github.com/tobuta/PolyGlotFake)**|
 |**2024-04-30**|**Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech**|Hankun Wang et.al.|[2404.19723](http://arxiv.org/abs/2404.19723)|null|
-|**2024-04-29**|**MM-TTS: A Unified Framework for Multimodal, Prompt-Induced Emotional Text-to-Speech Synthesis**|Xiang Li et.al.|[2404.18398](http://arxiv.org/abs/2404.18398)|null|
+|**2024-04-29**|**MM-TTS: A Unified Framework for Multimodal, Prompt-Induced Emotional Text-to-Speech Synthesis**|Xiang Li et.al.|[2404.18398](http://arxiv.org/abs/2404.18398)|**[link](https://github.com/kttrcdl/umetts)**|
 |**2024-04-28**|**USAT: A Universal Speaker-Adaptive Text-to-Speech Approach**|Wenbin Wang et.al.|[2404.18094](http://arxiv.org/abs/2404.18094)|**[link](https://github.com/mushanshanshan/esltts)**|
 |**2024-04-27**|**TI-ASU: Toward Robust Automatic Speech Understanding through Text-to-speech Imputation Against Missing Speech Modality**|Tiantian Feng et.al.|[2404.17983](http://arxiv.org/abs/2404.17983)|null|
 |**2024-04-26**|**An RFP dataset for Real, Fake, and Partially fake audio detection**|Abdulazeez AlAli et.al.|[2404.17721](http://arxiv.org/abs/2404.17721)|null|
