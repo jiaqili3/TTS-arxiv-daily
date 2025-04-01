@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-03-30**|**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**|Hyunjong Ok et.al.|[2503.23439](http://arxiv.org/abs/2503.23439)|null|
+|**2025-03-29**|**SupertonicTTS: Towards Highly Scalable and Efficient Text-to-Speech System**|Hyeongju Kim et.al.|[2503.23108](http://arxiv.org/abs/2503.23108)|null|
+|**2025-03-26**|**Dual Audio-Centric Modality Coupling for Talking Head Generation**|Ao Fu et.al.|[2503.22728](http://arxiv.org/abs/2503.22728)|null|
 |**2025-03-28**|**DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**|Haomin Zhang et.al.|[2503.22265](http://arxiv.org/abs/2503.22265)|null|
 |**2025-03-26**|**Text-Driven Voice Conversion via Latent State-Space Modeling**|Wen Li et.al.|[2503.20999](http://arxiv.org/abs/2503.20999)|null|
 |**2025-03-28**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
