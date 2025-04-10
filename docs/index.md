@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@ layout: default
 |**2025-04-08**|**AVENet: Disentangling Features by Approximating Average Features for Voice Conversion**|Wenyu Wang et.al.|[2504.05833](http://arxiv.org/abs/2504.05833)|null|
 |**2025-04-07**|**SpeakEasy: Enhancing Text-to-Speech Interactions for Expressive Content Creation**|Stephen Brade et.al.|[2504.05106](http://arxiv.org/abs/2504.05106)|null|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|null|
-|**2025-04-03**|**F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
+|**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|**[link](https://github.com/jimmyma99/teleantifraud)**|
 |**2025-03-30**|**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**|Hyunjong Ok et.al.|[2503.23439](http://arxiv.org/abs/2503.23439)|null|
 |**2025-03-29**|**SupertonicTTS: Towards Highly Scalable and Efficient Text-to-Speech System**|Hyeongju Kim et.al.|[2503.23108](http://arxiv.org/abs/2503.23108)|null|
