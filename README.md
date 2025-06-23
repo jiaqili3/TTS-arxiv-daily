@@ -19,7 +19,7 @@
 |**2025-06-18**|**EmojiVoice: Towards long-term controllable expressivity in robot speech**|Paige Tuttösí et.al.|[2506.15085](http://arxiv.org/abs/2506.15085)|null|
 |**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226](http://arxiv.org/abs/2506.14226)|null|
 |**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|null|
-|**2025-06-16**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|null|
+|**2025-06-16**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|**[link](https://github.com/k2-fsa/ZipVoice)**|
 |**2025-06-14**|**StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**|Hui Wang et.al.|[2506.12570](http://arxiv.org/abs/2506.12570)|null|
 |**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311](http://arxiv.org/abs/2506.12311)|null|
 |**2025-06-11**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamlessly Speech-Text Alignment and Streaming Speech Decoder**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
