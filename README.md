@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-06-25**|**An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS**|Marie Kunešová et.al.|[2506.20190](http://arxiv.org/abs/2506.20190)|null|
 |**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|
