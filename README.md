@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
+|**2025-06-29**|**You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties**|Paige Tuttösí et.al.|[2506.23367](http://arxiv.org/abs/2506.23367)|null|
 |**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-06-25**|**An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS**|Marie Kunešová et.al.|[2506.20190](http://arxiv.org/abs/2506.20190)|null|
 |**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
